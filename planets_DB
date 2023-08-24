@@ -1,0 +1,9 @@
+planets(mercury).
+planets(venus).
+planets(earth,moon).
+planets(mars,deimos).
+planets(jupiter,ganymeda).
+planets(saturn,titan).
+planets(uranus,oberon).
+planets(neptune,trition).
+
